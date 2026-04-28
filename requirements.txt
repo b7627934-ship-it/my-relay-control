@@ -2,4 +2,3 @@ Flask==3.0.0
 pydub==0.25.1
 SpeechRecognition==3.10.0
 gunicorn==21.2.0
-pyaudioop==0.3.2
